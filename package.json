@@ -1,0 +1,23 @@
+{
+  "name": "sealch-gatekeeper",
+  "version": "1.0.0",
+  "description": "Sealch Pro Gateway",
+  "main": "server.js",
+  "dependencies": {
+    "async-mutex": "^0.4.1",
+    "axios": "^1.13.6",
+    "bcryptjs": "^2.4.3",
+    "connect-mongodb-session": "^5.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^4.22.1",
+    "express-rate-limit": "^8.3.1",
+    "express-session": "^1.19.0",
+    "google-auth-library": "^10.6.2",
+    "mongoose": "^8.23.0",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^8.0.5",
+    "pino": "^10.3.1",
+    "rate-limit-mongo": "^2.3.2"
+  }
+}
