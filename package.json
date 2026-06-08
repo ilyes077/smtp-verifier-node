@@ -1,5 +1,5 @@
 {
-  "name": "gatekeeper",
+  "name": "new-gatekeeper",
   "version": "1.0.0",
   "description": "Gateway",
   "main": "server.js",
