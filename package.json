@@ -1,7 +1,7 @@
 {
-  "name": "sealch-gatekeeper",
+  "name": "gatekeeper",
   "version": "1.0.0",
-  "description": "Sealch Pro Gateway",
+  "description": "Gateway",
   "main": "server.js",
   "dependencies": {
     "async-mutex": "^0.4.1",
